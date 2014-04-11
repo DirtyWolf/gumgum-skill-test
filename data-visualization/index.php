@@ -1,9 +1,4 @@
 <?php  
-	/*
-		Error Reporting
-	*/
-	ini_set('display_errors',1);
-	error_reporting(-1);
 	
 	/*
 		Get the url contents and use json_decode to parse it as an array
